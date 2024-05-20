@@ -1,2 +1,2 @@
 # IMDB_Clone-ReactJS
-IMDB Movies and Watchlist
+## IMDB Movies and Watchlist
